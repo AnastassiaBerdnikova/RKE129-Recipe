@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Merriweather:ital,wght@1,900&display=swap');
+
+body{
+    background-color: rgb(34, 31, 31);
+}
+
+.header {
+margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-family: 'DM Serif Display', serif;
+  
+    
+}
+
+
+.picture{
+
+    
+  margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+
+.img {
+    width: 300px;
+    
+    
+    
+}
+
+.ingridients {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    border: 2px solid white;
+    width: 20%;
+    text-align: center;
+    color: white;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.ingridients-table {
+    margin: 0 auto;
+    
+
+}
+
+
+.ingridients-table td {
+
+    padding-left: 30px;
+   
+}
+
+.ingridients-table th {
+
+    padding-left: 30px;
+}
+.instructions {
+   
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+.instructions li {
+    padding-bottom: 20px;
+}
+
+.link {
+    color: white;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 10px;
+}
+
+footer {color: white;}
